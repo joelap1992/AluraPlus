@@ -5,7 +5,7 @@
   :construction: Projeto Em Construção :construction:
  </h3>
 
-# :hammer: Funcionalidades do projeto
+# :hammer: Melhorias do projeto AluraPlus feito no curso de Display - Grid
 -`Funcionalidade 01` : Deixar o site AluraPlus responsivo para mobile.
 -`Funcionalidade 02` :
 -`Funcionalidade 03` :
