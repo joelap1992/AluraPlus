@@ -6,4 +6,4 @@
  </h3>
 
 # :hammer: Funcionalidades do projeto
--'Funcionalidade 01' :Descrição da funcionalidade 01
+-`Funcionalidade 01` :Descrição da funcionalidade 01
