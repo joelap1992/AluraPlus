@@ -7,3 +7,10 @@
 
 # :hammer: Funcionalidades do projeto
 -`Funcionalidade 01` : Deixar o site AluraPlus responsivo para mobile.
+-`Funcionalidade 02` :
+-`Funcionalidade 03` :
+-`Funcionalidade 04` :
+-`Funcionalidade 05` : 
+-`Funcionalidade 06` :
+-`Funcionalidade 07` :
+-`Funcionalidade 08` :
